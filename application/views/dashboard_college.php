@@ -5,7 +5,4 @@
         <button type="button" class="btn btn-primary">Primary</button>
         <button type="button" class="btn btn-primary">Primary</button>
         <button type="button" class="btn btn-primary">Primary</button>
-        <button type="button" class="btn btn-primary">Primary</button>
-
-        <!-- <a href="<?php echo base_url('index.php/display/logout'); ?>">Log out</a -->
-</div>
+        <!-- <a href="<?php echo base_url('index.php/display/logout'); ?>>Log out</a -->
